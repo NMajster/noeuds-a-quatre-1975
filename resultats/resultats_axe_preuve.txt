@@ -1,0 +1,12 @@
+sans le rond 2 (3 ronds + axe) : 12 croisements apres simplification, morceaux 1 ; contains degenerate tetrahedra ; volume 0.000001 ; H1 Z + Z + Z + Z
+sans le rond 3 (3 ronds + axe) : 12 croisements apres simplification, morceaux 1 ; contains degenerate tetrahedra ; volume 0.000001 ; H1 Z + Z + Z + Z
+temoin : composantes 4 enlacements [[0, 2, 0, 0], [2, 0, 2, 2], [0, 2, 0, 0], [0, 2, 0, 0]]
+temoin (3 ronds independants + axe) : 12 croisements apres simplification, morceaux 1 ; contains degenerate tetrahedra ; volume 0.000002 ; H1 Z + Z + Z + Z
+temoin (1, 1, 1) : 1 forme(s) a 12 croisements
+temoin (-1, 1, 1) : 1 forme(s) a 12 croisements
+temoin (-1, -1, 1) : 1 forme(s) a 12 croisements
+temoin (-1, -1, -1) : 1 forme(s) a 12 croisements
+motif sans le rond 0, avec l'axe : 13 forme(s) ; meme diagramme que le temoin de signes [(-1, 1, 1)]
+motif sans le rond 1, avec l'axe : 2 forme(s) ; meme diagramme que le temoin de signes [(-1, 1, 1)]
+motif sans le rond 2, avec l'axe : 2 forme(s) ; meme diagramme que le temoin de signes [(-1, -1, 1)]
+motif sans le rond 3, avec l'axe : 13 forme(s) ; meme diagramme que le temoin de signes [(-1, -1, 1)]

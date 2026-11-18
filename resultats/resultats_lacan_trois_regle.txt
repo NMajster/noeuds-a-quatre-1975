@@ -1,0 +1,4 @@
+4 ('E emboite', 'BORROMEEN : chaque sous-ensemble se separe, le tout tient ([45])')
+2 ('P parallele', 'tout se separe')
+6 ('empilement', 'tout se separe (sans calcul)')
+solutions : [('E', (1, 2, 1), (True, False, True)), ('E', (2, 1, 2), (True, False, True)), ('E', (1, 2, 1), (False, True, False)), ('E', (2, 1, 2), (False, True, False))]

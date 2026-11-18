@@ -1,0 +1,7 @@
+composantes : ['noir', 'vert', 'rouge', 'brun']
+all tetrahedra positively oriented 102.185832467
+groupe de symetrie : D6 | ordre 12 | amphicheiral : True
+   permutation des ronds : ['noir->noir', 'vert->vert', 'rouge->rouge', 'brun->brun'] | respecte les meridiens : True
+   permutation des ronds : ['noir->vert', 'vert->noir', 'rouge->brun', 'brun->rouge'] | respecte les meridiens : True
+   permutation des ronds : ['noir->rouge', 'vert->brun', 'rouge->noir', 'brun->vert'] | respecte les meridiens : True
+   permutation des ronds : ['noir->brun', 'vert->rouge', 'rouge->vert', 'brun->noir'] | respecte les meridiens : True

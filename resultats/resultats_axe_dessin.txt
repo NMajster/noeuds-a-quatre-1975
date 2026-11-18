@@ -1,0 +1,2 @@
+dessin a 1 tour(s) : ronds ['noir', 'vert', 'rouge', 'brun'] | croisements lus 28 | chaque rond seul [0, 0, 0, 0] | tout 0 | un rond retire [0, 0, 0, 0] 
+dessin a 3 tour(s) : ronds ['noir', 'vert', 'rouge', 'brun'] | croisements lus 84 | chaque rond seul [3, 3, 3, 3] | tout 84 | un rond retire [9, 9, 9, 9] | coloriages S4 144144 (144144 pour le noeud de Thome et Soury)

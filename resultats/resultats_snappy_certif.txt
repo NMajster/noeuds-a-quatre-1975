@@ -1,0 +1,8 @@
+
+pd : 82 croisements ; tétraèdres 116 ; solution all tetrahedra positively oriented après 2 randomisations ; volume 102.25049645
+  verify_hyperbolicity indisponible ou échec : SageNotAvailable Sorry, this feature requires using SnapPy inside Sage.
+  homologie : Z + Z + Z + Z ; nombre de pointes : 4
+
+pd_noir_corrige : 78 croisements ; tétraèdres 120 ; solution all tetrahedra positively oriented après 2 randomisations ; volume 102.185832467
+  verify_hyperbolicity indisponible ou échec : SageNotAvailable Sorry, this feature requires using SnapPy inside Sage.
+  homologie : Z + Z + Z + Z ; nombre de pointes : 4

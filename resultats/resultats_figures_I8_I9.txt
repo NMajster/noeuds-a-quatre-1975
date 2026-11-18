@@ -1,0 +1,46 @@
+===== chaine temoin de quatre ronds | composantes 4 | croisements 20
+   enlacements non nuls : []
+   chaque rond seul (croisements apres simplification) : [0, 0, 0, 0]
+   un rond retire, croisements restants : {'rond 1': 0, 'rond 2': 0, 'rond 3': 0, 'rond 4': 0} | ensemble : 16
+   noeud borromeen de quatre ronds : True
+   volume ~14.66
+   tores de decoupe : 1 [[(3, 7.328), (3, 7.328)]]
+      torsion le long de rond 1 et rond 2 : volume restant ~7.33
+      torsion le long de rond 1 et rond 3 : volume restant ~7.33
+      torsion le long de rond 1 et rond 4 : volume restant ~7.33
+      torsion le long de rond 2 et rond 3 : volume restant ~7.33
+      torsion le long de rond 2 et rond 4 : volume restant ~7.33
+      torsion le long de rond 3 et rond 4 : volume restant ~7.33
+===== figure I-8 du Sinthome | composantes 4 | croisements 18
+   enlacements non nuls : []
+   chaque rond seul (croisements apres simplification) : [0, 0, 0, 0]
+   un rond retire, croisements restants : {'noir': 0, 'bleu': 0, 'vert': 0, 'rouge': 0} | ensemble : 16
+   noeud borromeen de quatre ronds : True
+   volume ~14.66
+   tores de decoupe : 1 [[(3, 7.328), (3, 7.328)]]
+      torsion le long de noir et bleu : volume restant ~7.33
+      torsion le long de noir et vert : volume restant ~7.33
+      torsion le long de noir et rouge : volume restant ~7.33
+      torsion le long de bleu et vert : volume restant ~7.33
+      torsion le long de bleu et rouge : volume restant ~7.33
+      torsion le long de vert et rouge : volume restant ~7.33
+===== figure I-9 du Sinthome | composantes 4 | croisements 22
+   enlacements non nuls : []
+   chaque rond seul (croisements apres simplification) : [0, 0, 0, 0]
+   un rond retire, croisements restants : {'noir': 0, 'bleu': 0, 'vert': 0, 'rouge': 0} | ensemble : 14
+   noeud borromeen de quatre ronds : True
+   volume ~14.66
+   tores de decoupe : 1 [[(3, 7.328), (3, 7.328)]]
+      torsion le long de noir et bleu : volume restant ~7.33
+      torsion le long de noir et vert : volume restant ~7.33
+      torsion le long de noir et rouge : volume restant ~7.33
+      torsion le long de bleu et vert : volume restant ~7.33
+      torsion le long de bleu et rouge : volume restant ~7.33
+      torsion le long de vert et rouge : volume restant ~7.33
+===== figure XI-7 de RSI | composantes 4 | croisements 14
+   enlacements non nuls : [('noir', 'magenta1', -1)]
+   chaque rond seul (croisements apres simplification) : [0, 0, 0, 0]
+   un rond retire, croisements restants : {'noir': 0, 'magenta1': 6, 'magenta2': 2, 'magenta3': 2} | ensemble : 8
+   noeud borromeen de quatre ronds : False
+   volume ~7.33
+   tores de decoupe : 1 [[(3, '~-0.00'), (3, 7.328)]]

@@ -1,0 +1,19 @@
+dessin0 de Soury : ronds 3 | croisements d'un rond avec lui-meme : [3, 3, 3]
+    rond 0 sur rond 1 : 0 fois ; rond 1 sur rond 0 : 12 fois -> constant
+    rond 0 sur rond 2 : 12 fois ; rond 2 sur rond 0 : 0 fois -> constant
+    rond 1 sur rond 2 : 0 fois ; rond 2 sur rond 1 : 12 fois -> constant
+dessin1 de Soury : ronds 3 | croisements d'un rond avec lui-meme : [3, 3, 3]
+    rond 0 sur rond 1 : 12 fois ; rond 1 sur rond 0 : 0 fois -> constant
+    rond 0 sur rond 2 : 0 fois ; rond 2 sur rond 0 : 12 fois -> constant
+    rond 1 sur rond 2 : 12 fois ; rond 2 sur rond 1 : 0 fois -> constant
+dessin2 de Soury : ronds 3 | croisements d'un rond avec lui-meme : [3, 3, 3]
+    rond 0 sur rond 1 : 8 fois ; rond 1 sur rond 0 : 0 fois -> constant
+    rond 0 sur rond 2 : 0 fois ; rond 2 sur rond 0 : 8 fois -> constant
+    rond 1 sur rond 2 : 8 fois ; rond 2 sur rond 1 : 0 fois -> constant
+figure de quatre trefles (rectifiee) : ronds 4 | croisements d'un rond avec lui-meme : [3, 3, 3, 3]
+    rond 0 sur rond 1 : 18 fois ; rond 1 sur rond 0 : 0 fois -> constant
+    rond 0 sur rond 2 : 0 fois ; rond 2 sur rond 0 : 6 fois -> constant
+    rond 0 sur rond 3 : 6 fois ; rond 3 sur rond 0 : 12 fois 
+    rond 1 sur rond 2 : 6 fois ; rond 2 sur rond 1 : 0 fois -> constant
+    rond 1 sur rond 3 : 0 fois ; rond 3 sur rond 1 : 6 fois -> constant
+    rond 2 sur rond 3 : 18 fois ; rond 3 sur rond 2 : 0 fois -> constant

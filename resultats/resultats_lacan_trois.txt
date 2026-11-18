@@ -1,0 +1,12 @@
+regle de Lacan, ecriture (1, 2, 1) : meme entrelacs que le dessin0 de Soury : True | volumes 112.2693 112.2693
+regle de Lacan, ecriture (1, 2, 1) : meme entrelacs que le dessin1 de Soury : True | volumes 112.2693 112.2693
+   coloriages par les transpositions de S3 : un trefle 9 ; trois trefles separes 729 ; ce noeud 9 -> ne se separe pas (exact)
+   coloriages par les transpositions de S4 : un trefle 30 ; trois trefles separes 27000 ; ce noeud 48 -> ne se separe pas (exact)
+regle de Lacan, ecriture (2, 1, 2) : meme entrelacs que le dessin0 de Soury : ? | volumes 39.5684 112.2693
+regle de Lacan, ecriture (2, 1, 2) : meme entrelacs que le dessin1 de Soury : ? | volumes 39.5684 112.2693
+   coloriages par les transpositions de S3 : un trefle 9 ; trois trefles separes 729 ; ce noeud 729 -> ne tranche pas
+   coloriages par les transpositions de S4 : un trefle 30 ; trois trefles separes 27000 ; ce noeud 11280 -> ne se separe pas (exact)
+ecriture (1, 2, 1) cycle (True, False, True) : coloriages 48 (trois trefles separes : 27000) -> tient a trois, exact
+ecriture (1, 2, 1) cycle (False, True, False) : coloriages 48 (trois trefles separes : 27000) -> tient a trois, exact
+ecriture (2, 1, 2) cycle (True, False, True) : coloriages 11280 (trois trefles separes : 27000) -> tient a trois, exact
+ecriture (2, 1, 2) cycle (False, True, False) : coloriages 11280 (trois trefles separes : 27000) -> tient a trois, exact

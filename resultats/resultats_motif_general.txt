@@ -1,0 +1,29 @@
+--- n = 2 : motif de 4 croisements : [1, 3, 2, 2]
+n=2 tours=1 : croisements 4 ; composantes 2 ; enlacements nuls False ; ronds seuls [0, 0] ; un rond retire -> [[0], [0]] ; tout : 2 crois., morceaux 1, contains degenerate tetrahedra, volume 0.08036
+n=2 tours=3 : croisements 12 ; composantes 2 ; enlacements nuls False ; ronds seuls [3, 3] ; un rond retire -> [[3], [3]] ; tout : 12 crois., morceaux 1, contains degenerate tetrahedra, volume 0.00008
+n=2 tours=5 : croisements 20 ; composantes 2 ; enlacements nuls False ; ronds seuls [5, 5] ; un rond retire -> [[5], [5]] ; tout : 20 crois., morceaux 1, contains degenerate tetrahedra, volume 0.00000
+    motif + axe : composantes 3 ; contains degenerate tetrahedra ; volume 0.00000
+--- n = 3 : motif de 11 croisements : [1, 3, 5, 2, 2, 4, 4, -2, -2, -4, -4]
+n=3 tours=1 : croisements 11 ; composantes 3 ; enlacements nuls True ; ronds seuls [0, 0, 0] ; un rond retire -> [[0, 0], [0, 0], [0, 0]] ; tout : 0 crois., morceaux 0, -, volume 0.00000
+n=3 tours=3 : croisements 33 ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 9 crois., morceaux 3, contains degenerate tetrahedra, volume -0.00000
+n=3 tours=5 : croisements 55 ; composantes 3 ; enlacements nuls True ; ronds seuls [5, 5, 5] ; un rond retire -> [[5, 5], [5, 5], [5, 5]] ; tout : 15 crois., morceaux 3, contains degenerate tetrahedra, volume -0.00000
+    motif + axe : composantes 4 ; contains degenerate tetrahedra ; volume 0.00000
+--- n = 4 : motif de 24 croisements : [1, 3, 5, 7, 2, 2, 4, 4, -2, -2, -4, -4, 6, 6, 4, 4, 2, 2, -4, -4, -2, -2, -6, -6]
+n=4 tours=1 : croisements 24 ; composantes 4 ; enlacements nuls True ; ronds seuls [0, 0, 0, 0] ; un rond retire -> [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]] ; tout : 0 crois., morceaux 0, -, volume 0.00000
+n=4 tours=3 : croisements 72 ; composantes 4 ; enlacements nuls True ; ronds seuls [3, 3, 3, 3] ; un rond retire -> [[3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3]] ; tout : 12 crois., morceaux 4, contains degenerate tetrahedra, volume -0.00001
+Traceback (most recent call last):
+  File "C:\dev\topologie-exposes\E2\calcul\motif_general.py", line 46, in <module>
+    rapport(n, k, REF if (n, k) == (4, 3) else None)
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\dev\topologie-exposes\E2\calcul\motif_general.py", line 38, in rapport
+    if ref is not None and M is not None: print("    meme entrelacs que la figure rectifiee de l'edition :", M.is_isometric_to(ref))
+                                                                                                             ~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\dev\topologie-exposes\venv-snappy\Lib\site-packages\snappy\__init__.py", line 218, in is_isometric_to
+    return resolved_self._is_isometric_to(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        resolved_other,
+        ^^^^^^^^^^^^^^^
+        return_isometries=return_isometries)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "cython/core/manifold.pyx", line 1622, in SnapPy.Manifold._is_isometric_to
+RuntimeError: The SnapPea kernel was not able to determine if the manifolds are isometric.

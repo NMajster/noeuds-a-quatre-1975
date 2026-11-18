@@ -1,0 +1,14 @@
+anneaux borromeens | composantes 3 | volume 7.3277 all tetrahedra positively oriented
+   tores de decoupe trouves : 0
+chaine de quatre ronds | composantes 4 | volume 14.6555 contains degenerate tetrahedra
+   tores de decoupe trouves : 1
+      tore 0 : morceau a 3 bords, volume 7.3277, all tetrahedra positively or, ['t12067(0,0)(0,0)(0,0)', '6^3_2(0,0)(0,0)(0,0)', 'L6a4(0,0)(0,0)(0,0)']
+      tore 0 : morceau a 3 bords, volume 7.3277, all tetrahedra positively or, ['t12067(0,0)(0,0)(0,0)', '6^3_2(0,0)(0,0)(0,0)', 'L6a4(0,0)(0,0)(0,0)']
+chaine de cinq ronds | composantes 5 | volume 21.9832 contains degenerate tetrahedra
+   tores de decoupe trouves : 2
+      tore 0 : morceau a 4 bords, volume 14.6554, contains degenerate tetrahed, []
+      tore 0 : morceau a 3 bords, volume 7.3277, all tetrahedra positively or, ['t12067(0,0)(0,0)(0,0)', '6^3_2(0,0)(0,0)(0,0)', 'L6a4(0,0)(0,0)(0,0)']
+      tore 1 : morceau a 4 bords, volume 14.6559, contains degenerate tetrahed, []
+      tore 1 : morceau a 3 bords, volume 7.3277, all tetrahedra positively or, ['t12067(0,0)(0,0)(0,0)', '6^3_2(0,0)(0,0)(0,0)', 'L6a4(0,0)(0,0)(0,0)']
+quatre trefles de Thome et Soury | composantes 4 | volume 102.1858 all tetrahedra positively oriented
+   tores de decoupe trouves : 0

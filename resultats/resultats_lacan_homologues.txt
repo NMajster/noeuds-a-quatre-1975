@@ -1,0 +1,6 @@
+--- trois trefles homologues, regle de Lacan : 1 sur 2, 2 sur 3, 3 sur 1
+cyclique : {'composantes': 3, 'enlacements_nuls': True, 'ronds': [3, 3, 3], 'un_retire': [[3, 3], [3, 3], [3, 3]], 'croisements': (27, 9), 'morceaux': 3, 'solution': 'contains degenerate tetrahedra', 'volume': 11.8328}
+   comparaison avec dessin0 impossible
+   comparaison avec dessin2 impossible
+cyclique inverse : {'composantes': 3, 'enlacements_nuls': True, 'ronds': [3, 3, 3], 'un_retire': [[3, 3], [3, 3], [3, 3]], 'croisements': (27, 9), 'morceaux': 3, 'solution': 'contains degenerate tetrahedra', 'volume': -0.0}
+empile (1 sur 2 sur 3) : {'composantes': 3, 'enlacements_nuls': True, 'ronds': [3, 3, 3], 'un_retire': [[3, 3], [3, 3], [3, 3]], 'croisements': (27, 9), 'morceaux': 3, 'solution': 'contains degenerate tetrahedra', 'volume': 0.0}

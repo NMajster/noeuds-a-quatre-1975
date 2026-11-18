@@ -1,0 +1,51 @@
+faux croisements (continuités) : [('noir', [530, 1126])]
+composantes : 4 [Counter({'noir': 24}), Counter({'vert': 29}), Counter({'rouge': 11}), Counter({'brun': 29})]
+croisements : 84 ; signes nuls : 0
+couleurs : {0: 'noir', 1: 'vert', 2: 'rouge', 3: 'brun'}
+croisements propres : {2: 3, 3: 3, 0: 3, 1: 3} ; vrilles (writhe) : {2: 3, 3: -3, 0: -1, 1: 3}
+enlacements (somme des signes / 2) : {(0, 3): 0.0, (1, 2): 0.0, (0, 2): 0.0, (2, 3): 0.0, (0, 1): 0.0, (1, 3): 0.0}
+
+== Chaque composante seule (croisements propres seulement) ==
+noir : générateurs 3 relations 3 ; Alexander = -1 / t ; |Δ(-1)| = 1
+vert : générateurs 3 relations 3 ; Alexander = t**2 - t + 1 / 1 ; |Δ(-1)| = 3
+rouge : générateurs 3 relations 3 ; Alexander = -t**2 + t - 1 / 1 ; |Δ(-1)| = 3
+brun : générateurs 3 relations 3 ; Alexander = -t**2 + t - 1 / t**2 ; |Δ(-1)| = 3
+
+== Étagement des sous-entrelacs de trois ronds (critère suffisant de séparation) ==
+sans noir : (i sous j, j sous i) par paire = {('vert', 'rouge'): (18, 0), ('vert', 'brun'): (0, 6), ('rouge', 'brun'): (6, 0)} ; étagé = False
+sans vert : (i sous j, j sous i) par paire = {('noir', 'rouge'): (6, 0), ('noir', 'brun'): (0, 18), ('rouge', 'brun'): (6, 0)} ; étagé = False
+sans rouge : (i sous j, j sous i) par paire = {('noir', 'vert'): (12, 6), ('noir', 'brun'): (0, 18), ('vert', 'brun'): (0, 6)} ; étagé = False
+sans brun : (i sous j, j sous i) par paire = {('noir', 'vert'): (12, 6), ('noir', 'rouge'): (6, 0), ('vert', 'rouge'): (18, 0)} ; étagé = False
+
+== Polynôme d'Alexander à plusieurs variables, évaluations modulo p ==
+entrelacs complet : (84, 84, [0, 0, 0, 0, 0, 0])
+sans noir : (39, 39, [0, 0, 0, 0, 0, 0])
+sans vert : (39, 39, [0, 0, 0, 0, 0, 0])
+sans rouge : (51, 51, [0, 0, 0, 0, 0, 0])
+sans brun : (51, 51, [0, 0, 0, 0, 0, 0])
+
+== Contrôle sans signes : déterminant de coloriage (2·dessus − entrée − sortie) ==
+noir : |det mineur| = 1
+vert : |det mineur| = 3
+rouge : |det mineur| = 3
+brun : |det mineur| = 3
+
+== Suite dessus / dessous le long de chaque composante (croisements propres seulement) ==
+noir S58 D57 D25 D58 S57 S25
+vert S62 D48 S36 D62 S48 D36
+rouge D26 S37 D13 S26 D37 S13
+brun S52 D14 S33 D52 S14 D33
+
+== Invariants de Milnor (Magnus, degré ≤ 3) ; itérations stables : True ==
+longitude de noir : μ(ij,k) = {} | μ(ijl,k) non nuls = {}
+longitude de vert : μ(ij,k) = {} | μ(ijl,k) non nuls = {}
+longitude de rouge : μ(ij,k) = {} | μ(ijl,k) non nuls = {}
+longitude de brun : μ(ij,k) = {} | μ(ijl,k) non nuls = {}
+
+code PD écrit : pd.json ( 84 croisements )
+
+== Invariants de Milnor à indices répétés (sous-entrelacs noir-vert), degré 3 ==
+longitude de noir : {('noir', 'noir', 'noir'): -1, ('noir', 'vert', 'vert'): 1, ('vert', 'noir', 'vert'): -2, ('vert', 'vert', 'noir'): 1}
+longitude de vert : {('noir', 'vert', 'noir'): -2, ('vert', 'noir', 'noir'): 1, ('noir', 'noir', 'vert'): 1, ('vert', 'vert', 'vert'): 1}
+longitude de rouge : {}
+longitude de brun : {}

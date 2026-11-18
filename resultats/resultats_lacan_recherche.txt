@@ -1,0 +1,10 @@
+reglages d'un couple, enlacement nul : 20 ; qui se separent : 8
+    (1, 1, 1, -1, -1, -1) 
+    (1, 1, -1, -1, -1, 1) 
+    (1, -1, 1, -1, 1, -1) (constant)
+    (1, -1, -1, -1, 1, 1) 
+    (-1, 1, 1, 1, -1, -1) 
+    (-1, 1, -1, 1, -1, 1) (constant)
+    (-1, -1, 1, 1, 1, -1) 
+    (-1, -1, -1, 1, 1, 1) 
+reglages de trois trefles ou chaque couple se separe : 512 ; qui ne se separent pas a trois : 0

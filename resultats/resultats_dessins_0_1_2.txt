@@ -1,0 +1,18 @@
+dessin0 mot : [4, -2, -5, 3, 1, 4, -2, 1, -5, 3, -2, 4, -5, 1, 3]
+dessin0 x1 : 15 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [0, 0, 0] ; un rond retire -> [[0, 0], [0, 0], [0, 0]] ; tout : 15 crois., morceaux 1, all tetrahedra positively oriented, volume 27.62341
+dessin0 x3 : 45 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 45 crois., morceaux 1, all tetrahedra positively oriented, volume 112.26930
+dessin0 x5 : 75 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [5, 5, 5] ; un rond retire -> [[5, 5], [5, 5], [5, 5]] ; tout : 75 crois., morceaux 1, all tetrahedra positively oriented, volume 191.49271
+   motif + axe : ('all tetrahedra positively oriented', 38.79749497979874)
+dessin1 mot : [1, -5, 4, -2, -5, 1, 3, 4, -2, 1, 3, -5, 4, -2, 3]
+dessin1 x1 : 15 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [0, 0, 0] ; un rond retire -> [[0, 0], [0, 0], [0, 0]] ; tout : 15 crois., morceaux 1, all tetrahedra positively oriented, volume 27.62341
+dessin1 x3 : 45 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 45 crois., morceaux 1, all tetrahedra positively oriented, volume 112.26930
+dessin1 x5 : 75 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [5, 5, 5] ; un rond retire -> [[5, 5], [5, 5], [5, 5]] ; tout : 75 crois., morceaux 1, all tetrahedra positively oriented, volume 191.49271
+   motif + axe : ('all tetrahedra positively oriented', 38.797494979798756)
+dessin2 mot : [2, -4, 3, -2, 4, 1, -5, 3, -2, 4, 3]
+dessin2 x1 : 11 crois. ; composantes 1 ; enlacements nuls True ; ronds seuls [3] ; un rond retire -> [[]] ; tout : 3 crois., morceaux 1, contains degenerate tetrahedra, volume -0.00002
+dessin2 x3 : 33 crois. ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 21 crois., morceaux 1, all tetrahedra positively oriented, volume 38.19393
+dessin2 x5 : 55 crois. ; composantes 1 ; enlacements nuls True ; ronds seuls [35] ; un rond retire -> [[]] ; tout : 35 crois., morceaux 1, all tetrahedra positively oriented, volume 73.58122
+   motif + axe : ('all tetrahedra positively oriented', 15.930729429410205)
+('dessin0', 3) meme entrelacs que ('dessin1', 3) : True
+('dessin0', 3) meme entrelacs que ('dessin2', 3) : False
+('dessin1', 3) meme entrelacs que ('dessin2', 3) : False

@@ -1,0 +1,10 @@
+composantes 4 ; enlacement [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+entier : croisements 14 ; morceaux 1 ; volume 14.66 contains degenerate tetrahedra
+ rond 0 : 0 croisements
+ rond 1 : 0 croisements
+ rond 2 : 0 croisements
+ rond 3 : 0 croisements
+ sans 0 : croisements 0
+ sans 1 : croisements 0
+ sans 2 : croisements 0
+ sans 3 : croisements 0

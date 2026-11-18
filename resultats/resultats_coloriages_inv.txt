@@ -1,0 +1,18 @@
+
+== transpositions de S3 (coloriages de Fox modulo 3) (3 couleurs) ==
+  trefle : 9 ; union scindee de quatre trefles : 6561 ; de trois trefles et un rond non noue : 2187
+  anneaux borromeens (temoin) : 3 ; trois ronds separes : 27
+  pd_noir_corrige : 6561 coloriages (9 arcs generateurs, 0 s)
+  pd : 2187 coloriages (9 arcs generateurs, 0 s)
+
+== transpositions de S4 (6 couleurs) ==
+  trefle : 30 ; union scindee de quatre trefles : 810000 ; de trois trefles et un rond non noue : 162000
+  anneaux borromeens (temoin) : 24 ; trois ronds separes : 216
+  pd_noir_corrige : 144144 coloriages (9 arcs generateurs, 37 s)
+  pd : 45552 coloriages (9 arcs generateurs, 7 s)
+
+== doubles transpositions de A5 (15 couleurs) ==
+  trefle : 75 ; union scindee de quatre trefles : 31640625 ; de trois trefles et un rond non noue : 6328125
+  anneaux borromeens (temoin) : 135 ; trois ronds separes : 3375
+
+(Calcul interrompu volontairement ici : les classes de A5 et de S5 n'ont pas ete menees a terme pour le dessin ; le resultat utile est celui des transpositions de S4.)

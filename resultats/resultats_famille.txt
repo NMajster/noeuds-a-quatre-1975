@@ -1,0 +1,77 @@
+C:\dev\topologie-exposes\E2\calcul\famille.py:4: SyntaxWarning: "\S" is an invalid escape sequence. Such sequences will not work in the future. Did you mean "\\S"? A raw string is also an option.
+  Usage : python famille.py
+
+===== motif repete 1 fois : 28 croisements, 4 composantes =====
+enlacements tous nuls : True [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  rond 0 : rond non noue (0 croisement)
+  rond 1 : rond non noue (0 croisement)
+  rond 2 : rond non noue (0 croisement)
+  rond 3 : rond non noue (0 croisement)
+  sans le rond 0 : 0 croisements, morceaux disjoints 0, tailles []
+  sans le rond 1 : 0 croisements, morceaux disjoints 0, tailles []
+  sans le rond 2 : 0 croisements, morceaux disjoints 0, tailles []
+  sans le rond 3 : 0 croisements, morceaux disjoints 0, tailles []
+  ensemble : 0 croisements apres simplification, morceaux 0 ; contains degenerate tetrahedra ; volume -7.13 E-7
+  identification : []
+
+===== motif repete 2 fois : 56 croisements, 8 composantes =====
+enlacements tous nuls : False 
+  rond 0 : rond non noue (0 croisement)
+  rond 1 : rond non noue (0 croisement)
+  rond 2 : rond non noue (0 croisement)
+  rond 3 : rond non noue (0 croisement)
+  rond 4 : rond non noue (0 croisement)
+  rond 5 : rond non noue (0 croisement)
+  rond 6 : rond non noue (0 croisement)
+  rond 7 : rond non noue (0 croisement)
+
+===== motif repete 3 fois : 84 croisements, 4 composantes =====
+enlacements tous nuls : True [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  rond 0 : 3 croisements apres simplification []
+  rond 1 : 3 croisements apres simplification []
+  rond 2 : 3 croisements apres simplification []
+  rond 3 : 3 croisements apres simplification []
+  sans le rond 0 : 9 croisements, morceaux disjoints 3, tailles [3, 3, 3]
+  sans le rond 1 : 9 croisements, morceaux disjoints 3, tailles [3, 3, 3]
+  sans le rond 2 : 9 croisements, morceaux disjoints 3, tailles [3, 3, 3]
+  sans le rond 3 : 9 croisements, morceaux disjoints 3, tailles [3, 3, 3]
+  ensemble : 80 croisements apres simplification, morceaux 1 ; all tetrahedra positively oriented ; volume 102.185832467
+  meme entrelacs que la figure rectifiee (isometrie des complementaires) : True
+  identification : []
+
+===== motif repete 4 fois : 112 croisements, 8 composantes =====
+enlacements tous nuls : False 
+  rond 0 : rond non noue (0 croisement)
+  rond 1 : rond non noue (0 croisement)
+  rond 2 : rond non noue (0 croisement)
+  rond 3 : rond non noue (0 croisement)
+  rond 4 : rond non noue (0 croisement)
+  rond 5 : rond non noue (0 croisement)
+  rond 6 : rond non noue (0 croisement)
+  rond 7 : rond non noue (0 croisement)
+
+===== motif repete 5 fois : 140 croisements, 4 composantes =====
+enlacements tous nuls : True [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  rond 0 : 5 croisements apres simplification []
+  rond 1 : 5 croisements apres simplification []
+  rond 2 : 5 croisements apres simplification []
+  rond 3 : 5 croisements apres simplification []
+  sans le rond 0 : 15 croisements, morceaux disjoints 3, tailles [5, 5, 5]
+  sans le rond 1 : 15 croisements, morceaux disjoints 3, tailles [5, 5, 5]
+  sans le rond 2 : 15 croisements, morceaux disjoints 3, tailles [5, 5, 5]
+  sans le rond 3 : 15 croisements, morceaux disjoints 3, tailles [5, 5, 5]
+  ensemble : 140 croisements apres simplification, morceaux 1 ; all tetrahedra positively oriented ; volume 190.53023232
+  identification : []
+
+===== motif repete 7 fois : 196 croisements, 4 composantes =====
+enlacements tous nuls : True [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  rond 0 : 7 croisements apres simplification []
+  rond 1 : 7 croisements apres simplification []
+  rond 2 : 7 croisements apres simplification []
+  rond 3 : 7 croisements apres simplification []
+  sans le rond 0 : 21 croisements, morceaux disjoints 3, tailles [7, 7, 7]
+  sans le rond 1 : 21 croisements, morceaux disjoints 3, tailles [7, 7, 7]
+  sans le rond 2 : 21 croisements, morceaux disjoints 3, tailles [7, 7, 7]
+  sans le rond 3 : 21 croisements, morceaux disjoints 3, tailles [7, 7, 7]
+  ensemble : 196 croisements apres simplification, morceaux 1 ; all tetrahedra positively oriented ; volume 274.06407561
+  identification : []

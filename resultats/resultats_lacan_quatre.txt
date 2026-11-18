@@ -1,0 +1,4 @@
+640 ('E emboite', 'un sous-ensemble de 3 ne se separe pas')
+40 ('P parallele', 'tout se separe')
+24 ('empilement', 'tout se separe (sans calcul)')
+solutions : []

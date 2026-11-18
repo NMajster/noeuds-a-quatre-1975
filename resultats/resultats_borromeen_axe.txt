@@ -1,0 +1,5 @@
+motif repete 1 fois : ronds 1 | croisements apres simplification 0
+motif repete 2 fois : ronds 1 | croisements apres simplification 4 | volume 2.0299 | ['m004(0,0)', '4_1(0,0)']
+motif repete 3 fois : ronds 3 | croisements apres simplification 6 | volume 7.3277 | ['t12067(0,0)(0,0)(0,0)', '6^3_2(0,0)(0,0)(0,0)']
+symetries du dessin a 6 croisements : 12 | ordres : [1, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3]
+un tour avec l'axe : ronds 2 | enlacement du rond avec l'axe : 3

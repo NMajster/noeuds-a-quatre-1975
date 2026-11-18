@@ -1,0 +1,21 @@
+chaine temoin
+    rond 1 et rond 2 : volumes restants ['~12.47', '~13.62']
+    rond 1 et rond 3 : volumes restants ['~12.28', '~13.57']
+    rond 1 et rond 4 : volumes restants ['~12.28', '~13.57']
+    rond 2 et rond 3 : volumes restants ['~12.28', '~13.57']
+    rond 2 et rond 4 : volumes restants ['~12.28', '~13.57']
+    rond 3 et rond 4 : volumes restants ['~12.47', '~13.62']
+figure I-8 (noir = I, bleu = R, vert = sinthome, rouge = S)
+    noir et bleu : volumes restants ['~12.47', '~13.62']
+    noir et vert : volumes restants ['~12.28', '~13.57']
+    noir et rouge : volumes restants ['~12.28', '~13.57']
+    bleu et vert : volumes restants ['~12.28', '~13.57']
+    bleu et rouge : volumes restants ['~12.28', '~13.57']
+    vert et rouge : volumes restants ['~12.47', '~13.62']
+figure I-9
+    noir et bleu : volumes restants ['~12.47', '~13.62']
+    noir et vert : volumes restants ['~12.28', '~13.57']
+    noir et rouge : volumes restants ['~12.28', '~13.57']
+    bleu et vert : volumes restants ['~12.28', '~13.57']
+    bleu et rouge : volumes restants ['~12.28', '~13.57']
+    vert et rouge : volumes restants ['~12.47', '~13.62']

@@ -1,0 +1,3 @@
+croisements par periode : 28
+mot lu, G = + : composantes 4 | ronds seuls [3, 3, 3, 3] | coloriages S4 144144 (rectifiee 144144, imprimee 45552) | volume 102.1858 | meme complementaire que la figure rectifiee : True
+mot lu, G = - : composantes 4 | ronds seuls [3, 3, 3, 3] | coloriages S4 144144 (rectifiee 144144, imprimee 45552) | volume 102.1858 | meme complementaire que la figure rectifiee : True

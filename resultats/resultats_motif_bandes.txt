@@ -1,0 +1,12 @@
+F n=3 (s1 s3 s5 . C3) tours=1 : 15 crois. par tour ; composantes 3 ; enlacements nuls True ; ronds seuls [0, 0, 0] ; un rond retire -> [[0, 0], [0, 0], [0, 0]] ; tout : 8 crois., morceaux 1, all tetrahedra positively oriented, volume 7.32772
+F n=3 (s1 s3 s5 . C3) tours=3 : 15 crois. par tour ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 39 crois., morceaux 1, all tetrahedra positively oriented, volume 63.45212
+   motif + axe : ('all tetrahedra positively oriented', 23.657668399687513)
+G n=3 (bande conjuguee) tours=1 : 27 crois. par tour ; composantes 3 ; enlacements nuls True ; ronds seuls [0, 0, 0] ; un rond retire -> [[0, 0], [0, 0], [0, 0]] ; tout : 0 crois., morceaux 0, -, volume 0.00000
+G n=3 (bande conjuguee) tours=3 : 27 crois. par tour ; composantes 3 ; enlacements nuls True ; ronds seuls [3, 3, 3] ; un rond retire -> [[3, 3], [3, 3], [3, 3]] ; tout : 45 crois., morceaux 1, all tetrahedra positively oriented, volume 62.42466
+   motif + axe : ('all tetrahedra positively oriented', 25.851213787429824)
+F n=4 (s1 s3 s5 s7 . C4) tours=1 : 44 crois. par tour ; composantes 4 ; enlacements nuls True ; ronds seuls [0, 0, 0, 0] ; un rond retire -> [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]] ; tout : 20 crois., morceaux 1, contains degenerate tetrahedra, volume 14.65545
+F n=4 (s1 s3 s5 s7 . C4) tours=3 : 44 crois. par tour ; composantes 4 ; enlacements nuls True ; ronds seuls [3, 3, 3, 3] ; un rond retire -> [[3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3]] ; tout : 90 crois., morceaux 1, contains negatively oriented tetrahedra, volume 168.91686
+   motif + axe : ('all tetrahedra positively oriented', 61.07020697732928)
+G n=4 (bande conjuguee) tours=1 : 84 crois. par tour ; composantes 4 ; enlacements nuls True ; ronds seuls [0, 0, 0, 0] ; un rond retire -> [[0, 0, 0], [0, 0, 0], [0, 0, 0], [0, 0, 0]] ; tout : 0 crois., morceaux 0, -, volume 0.00000
+G n=4 (bande conjuguee) tours=3 : 84 crois. par tour ; composantes 4 ; enlacements nuls True ; ronds seuls [3, 3, 3, 3] ; un rond retire -> [[3, 3, 3], [3, 3, 3], [3, 3, 3], [3, 3, 3]] ; tout : 168 crois., morceaux 1, all tetrahedra positively oriented, volume 293.36958
+   motif + axe : ('all tetrahedra positively oriented', 102.9678117843476)

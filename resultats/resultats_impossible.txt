@@ -1,0 +1,2 @@
+panneau a : ronds ['bleu', 'vert', 'rouge'] | croisements 6 | tout, apres simplification : 0 | en retirant un rond : [0, 0, 0]
+panneau b : ronds ['noir', 'vert', 'rouge'] | croisements 6 | tout, apres simplification : 6 | en retirant un rond : [0, 0, 0]

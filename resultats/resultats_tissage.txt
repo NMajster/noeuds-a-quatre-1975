@@ -1,0 +1,6 @@
+n = 3 | ecritures du demi-tour d'un bloc : 2 | tissage : [3, 2, 4, 1, 3, 5, 2, 4, 3]
+   (1, 2, 1) (1, -1, 1, 1, -1) ('all tetrahedra positively oriented', 112.2693, 45)
+   (1, 2, 1) (1, -1, -1, 1, -1) ('all tetrahedra positively oriented', 112.2693, 45)
+solutions : 2 | volumes distincts : [112.2693]
+n = 4 | ecritures du demi-tour d'un bloc : 16 | tissage : [4, 3, 5, 2, 4, 6, 1, 3, 5, 7, 2, 4, 6, 3, 5, 4]
+solutions : 0 | volumes distincts : []

@@ -1,0 +1,15 @@
+imprimee : ([1, 0, 0], [0, 6, 2, 2], 8, 8.27)
+inversion 0 [1, 2] : enlacements du noir [1, 0, 0] [2, 6, 2, 4] 10 10.992
+inversion 1 [2, 0] : enlacements du noir [1, -1, 0] [0, 2, 2, 4] 4 -0.0
+inversion 2 [1, 0] : enlacements du noir [2, 0, 0] [0, 6, 8, 8] 14 14.655
+inversion 3 [3, 1] : enlacements du noir [1, 0, 0] [2, 6, 4, 2] 10 10.992
+inversion 4 [1, 0] : enlacements du noir [0, 0, 0] [0, 6, 0, 6] 10 7.328
+inversion 5 [1, 0] : enlacements du noir [0, 0, 0] [0, 6, 6, 0] 10 7.328
+inversion 6 [2, 0] : enlacements du noir [1, 1, 0] [0, 2, 2, 4] 4 0.943
+inversion 7 [0, 1] : enlacements du noir [0, 0, 0] [0, 6, 0, 0] 6 7.328
+inversion 8 [3, 2] : enlacements du noir [1, 0, 0] [2, 2, 2, 2] 4 0.0
+inversion 9 [3, 1] : enlacements du noir [1, 0, 0] [2, 6, 4, 2] 10 10.992
+inversion 10 [1, 2] : enlacements du noir [1, 0, 0] [2, 6, 2, 4] 10 10.992
+inversion 11 [3, 2] : enlacements du noir [1, 0, 0] [2, 2, 2, 2] 12 15.886
+inversion 12 [0, 3] : enlacements du noir [1, 0, 1] [0, 2, 4, 2] 4 0.049
+inversion 13 [0, 3] : enlacements du noir [1, 0, -1] [0, 2, 4, 2] 4 0.066

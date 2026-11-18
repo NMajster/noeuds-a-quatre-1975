@@ -1,0 +1,30 @@
+
+######## pd ########
+composantes : 4 ; croisements : 84
+matrice d'enlacement : [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  composante 0 : 0 croisements après simplification ; identification : []
+  composante 1 : 3 croisements après simplification ; identification : []
+  composante 2 : 3 croisements après simplification ; identification : []
+  composante 3 : 3 croisements après simplification ; identification : []
+entrelacs entier : croisements après simplification 82 ; morceaux disjoints du diagramme simplifié : 1
+  extérieur : volume 102.250496446 ; type de solution : all tetrahedra positively oriented
+  identification : []
+  sans la composante 0 : croisements après simplification 9 ; morceaux disjoints : 3 ; tailles [3, 3, 3]
+  sans la composante 1 : croisements après simplification 6 ; morceaux disjoints : 2 ; tailles [3, 3]
+  sans la composante 2 : croisements après simplification 13 ; morceaux disjoints : 2 ; tailles [10, 3]
+  sans la composante 3 : croisements après simplification 13 ; morceaux disjoints : 2 ; tailles [10, 3]
+
+######## pd_noir_corrige ########
+composantes : 4 ; croisements : 84
+matrice d'enlacement : [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+  composante 0 : 3 croisements après simplification ; identification : []
+  composante 1 : 3 croisements après simplification ; identification : []
+  composante 2 : 3 croisements après simplification ; identification : []
+  composante 3 : 3 croisements après simplification ; identification : []
+entrelacs entier : croisements après simplification 84 ; morceaux disjoints du diagramme simplifié : 1
+  extérieur : volume 102.185832467 ; type de solution : contains negatively oriented tetrahedra
+  identification : []
+  sans la composante 0 : croisements après simplification 9 ; morceaux disjoints : 3 ; tailles [3, 3, 3]
+  sans la composante 1 : croisements après simplification 9 ; morceaux disjoints : 3 ; tailles [3, 3, 3]
+  sans la composante 2 : croisements après simplification 9 ; morceaux disjoints : 3 ; tailles [3, 3, 3]
+  sans la composante 3 : croisements après simplification 9 ; morceaux disjoints : 3 ; tailles [3, 3, 3]

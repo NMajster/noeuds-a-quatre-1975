@@ -1,0 +1,43 @@
+== Temoins ==
+trefle 3_1 (attendu : 2 mod 3, 1 sinon)    croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+anneaux borromeens L6a4 (attendu : 1)      croisements   6 | nullite mod p : {3: 1, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+entrelacs de Hopf (attendu : 1)            croisements   2 | nullite mod p : {3: 1, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+
+== pd_noir_corrige ==
+entrelacs entier, diagramme extrait        croisements  84 | nullite mod p : {3: 8, 5: 4, 7: 4, 11: 4, 13: 4, 17: 4, 19: 4, 23: 4, 29: 4, 31: 4, 101: 4, 1000003: 4}
+entrelacs entier, diagramme simplifie      croisements  82 | nullite mod p : {3: 8, 5: 4, 7: 4, 11: 4, 13: 4, 17: 4, 19: 4, 23: 4, 29: 4, 31: 4, 101: 4, 1000003: 4}
+sous-entrelacs (0, 1, 2), non simplifie    croisements  51 | nullite mod p : {3: 6, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (0, 1, 3), non simplifie    croisements  51 | nullite mod p : {3: 6, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (0, 2, 3), non simplifie    croisements  39 | nullite mod p : {3: 6, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (1, 2, 3), non simplifie    croisements  39 | nullite mod p : {3: 6, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (0, 1), non simplifie       croisements  24 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0, 2), non simplifie       croisements  12 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0, 3), non simplifie       croisements  24 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (1, 2), non simplifie       croisements  24 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (1, 3), non simplifie       croisements  12 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (2, 3), non simplifie       croisements  12 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (1,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (2,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (3,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+
+== pd ==
+entrelacs entier, diagramme extrait        croisements  84 | nullite mod p : {3: 7, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+entrelacs entier, diagramme simplifie      croisements  84 | nullite mod p : {3: 7, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (0, 1, 2), non simplifie    croisements  51 | nullite mod p : {3: 5, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0, 1, 3), non simplifie    croisements  51 | nullite mod p : {3: 5, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0, 2, 3), non simplifie    croisements  39 | nullite mod p : {3: 5, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (1, 2, 3), non simplifie    croisements  39 | nullite mod p : {3: 6, 5: 3, 7: 3, 11: 3, 13: 3, 17: 3, 19: 3, 23: 3, 29: 3, 31: 3, 101: 3, 1000003: 3}
+sous-entrelacs (0, 1), non simplifie       croisements  24 | nullite mod p : {3: 3, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (0, 2), non simplifie       croisements  12 | nullite mod p : {3: 3, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0, 3), non simplifie       croisements  24 | nullite mod p : {3: 3, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (1, 2), non simplifie       croisements  24 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (1, 3), non simplifie       croisements  12 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (2, 3), non simplifie       croisements  12 | nullite mod p : {3: 4, 5: 2, 7: 2, 11: 2, 13: 2, 17: 2, 19: 2, 23: 2, 29: 2, 31: 2, 101: 2, 1000003: 2}
+sous-entrelacs (0,), non simplifie         croisements   3 | nullite mod p : {3: 1, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (1,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (2,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+sous-entrelacs (3,), non simplifie         croisements   3 | nullite mod p : {3: 2, 5: 1, 7: 1, 11: 1, 13: 1, 17: 1, 19: 1, 23: 1, 29: 1, 31: 1, 101: 1, 1000003: 1}
+
+Attendu pour une union scindee de quatre trefles : 8 modulo 3, 4 modulo tout autre p impair.
+Attendu pour une union scindee de trois trefles : 6 modulo 3, 3 sinon ; de deux : 4 et 2 ; un trefle : 2 et 1.

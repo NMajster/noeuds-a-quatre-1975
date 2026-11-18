@@ -1,0 +1,3 @@
+croisements par tour : 109
+F n=5 tours=1 : 109 crois. par tour ; composantes 5 ; enlacements nuls True ; ronds seuls [0, 0, 0, 0, 0] ; un rond retire -> [[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]] ; tout : 42 crois., morceaux 1, all tetrahedra positively oriented, volume 65.43141
+F n=5 tours=3 : 109 crois. par tour ; composantes 5 ; enlacements nuls True ; ronds seuls [3, 3, 3, 3, 3] ; un rond retire -> [[3, 3, 3, 3], [3, 3, 3, 3], [3, 3, 3, 3], [3, 3, 3, 3], [3, 3, 3, 3]] ; tout : 201 crois., morceaux 1, contains negatively oriented tetrahedra, volume 335.09606

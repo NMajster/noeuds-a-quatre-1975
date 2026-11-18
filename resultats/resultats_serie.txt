@@ -1,0 +1,2 @@
+dessin a 5 tours : ronds 4 | croisements lus 140 | enlacements nuls True | chaque rond seul (croisements, morceaux) [(5, 1), (5, 1), (5, 1), (5, 1)] | un rond retire [(15, 3), (15, 3), (15, 3), (15, 3)] | tout (140, 1)
+dessin a 7 tours : ronds 4 | croisements lus 196 | enlacements nuls True | chaque rond seul (croisements, morceaux) [(7, 1), (7, 1), (7, 1), (7, 1)] | un rond retire [(21, 3), (21, 3), (21, 3), (21, 3)] | tout (196, 1)

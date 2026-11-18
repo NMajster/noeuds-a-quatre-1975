@@ -1,0 +1,3 @@
+trois : ronds 3 | croisements 9 | enlacements nuls True | chaque rond seul [0, 0, 0] | un rond retire [0, 0, 0] | tout 8 | volume 7.3277 | meme noeud que le noeud borromeen : True
+ouverte : ronds 4 | croisements 18 | enlacements nuls True | chaque rond seul [0, 0, 0, 0] | un rond retire [0, 0, 0, 0] | tout 16 | volume 14.6554
+fermee : ronds 3 | croisements 30 | enlacements nuls True | chaque rond seul [0, 0, 0] | un rond retire [0, 0, 0] | tout 12 | volume 14.9514 | meme noeud que le noeud borromeen : False

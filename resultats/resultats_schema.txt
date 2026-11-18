@@ -1,0 +1,2 @@
+variante 0 : composantes 4 ['noir', 'bleu', 'vert', 'rouge'] | croisements 14 | enlacements nuls True | un rond retire : [0, 0, 0, 0] | tout : 14 | volume 14.655 | decoupe : [[(3, 7.328), (3, 7.328)]]
+variante 1 : composantes 4 ['noir', 'bleu', 'vert', 'rouge'] | croisements 14 | enlacements nuls False | un rond retire : [4, 4, 0, 0] | tout : 14 | volume 14.655 | decoupe : [[(3, 7.328), (3, 7.328)]]

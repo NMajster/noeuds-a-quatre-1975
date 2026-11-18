@@ -1,0 +1,3 @@
+composantes 3 ['noir', 'vert', 'rouge'] | croisements 33 | ronds seuls [(3, 1), (3, 1), (3, 1)] | couples [(6, 2), (6, 2), (6, 2)]
+dessous -> dessus : {('vert', 'noir'): 8, ('rouge', 'vert'): 8, ('noir', 'noir'): 3, ('vert', 'vert'): 3, ('rouge', 'rouge'): 3, ('noir', 'rouge'): 8}
+coloriages S4 : 408 (408 pour le dessin 2 de Soury selon la contre-lecture ; 27000 si separes)

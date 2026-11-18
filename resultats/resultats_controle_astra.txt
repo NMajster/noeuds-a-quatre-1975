@@ -1,0 +1,5 @@
+contre-exemple : composantes 2 | enlacement 0 | chaque rond seul : [0, 0] | croisements du tout apres simplification : 14 | nullite de Fox mod 3 : 3 (2 pour deux cercles separes)
+famille F, n = 3 : croisements par tour 15 | composantes 3 | nullite de Fox mod 3 : 3 | pour n trefles separes : 6
+famille F, n = 4 : croisements par tour 44 | composantes 4 | nullite de Fox mod 3 : 5 | pour n trefles separes : 8
+famille F, n = 5 : croisements par tour 109 | composantes 5 | nullite de Fox mod 3 : 7 | pour n trefles separes : 10
+famille F, n = 6 : croisements par tour 246 | composantes 6 | nullite de Fox mod 3 : 9 | pour n trefles separes : 12
