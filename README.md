@@ -66,7 +66,6 @@ Les pages entières des éditions ne sont pas reproduites ici. Seules les figure
 - Les figures I-5 à I-9 du *Sinthome* ont été reconstituées par l'édition à partir de notes d'auditeur. Les calculs sur le nœud à quatre ronds portent sur cette reconstitution.
 - L'exemple du 16 mars 1976 a été construit d'après la description de Lacan et la note de l'édition. La figure IX-4 n'a pas été lue par programme. Le calcul établit que les quatre éléments ne se séparent pas tous, non qu'aucun ne se détache.
 - Les douze symétries du nœud des quatre trèfles forment une liste que le logiciel déclare complète, sans certification.
-- Aucun topologue n'a relu ce travail.
 
 ## Qui a fait quoi
 
