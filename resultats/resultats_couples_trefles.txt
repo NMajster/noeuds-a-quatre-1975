@@ -1,0 +1,7 @@
+composantes : ['noir', 'vert', 'rouge', 'brun']
+ordres trouves : {12} | groupe declare complet par SnapPy : {True} | D6
+   noir->noir vert->vert rouge->rouge brun->brun | orientation de l'espace : ['conserve'] | partages conserves : ['noir-vert / rouge-brun', 'noir-brun / vert-rouge', 'noir-rouge / vert-brun']
+   noir->vert vert->noir rouge->brun brun->rouge | orientation de l'espace : ['renverse'] | partages conserves : ['noir-vert / rouge-brun', 'noir-brun / vert-rouge', 'noir-rouge / vert-brun']
+   noir->rouge vert->brun rouge->noir brun->vert | orientation de l'espace : ['renverse'] | partages conserves : ['noir-vert / rouge-brun', 'noir-brun / vert-rouge', 'noir-rouge / vert-brun']
+   noir->brun vert->rouge rouge->vert brun->noir | orientation de l'espace : ['conserve'] | partages conserves : ['noir-vert / rouge-brun', 'noir-brun / vert-rouge', 'noir-rouge / vert-brun']
+nombre de permutations distinctes des trefles : 4
